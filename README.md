@@ -6,7 +6,7 @@ This is the source code for the experiments of the paper
 
 by Diana Sola, Han van der Aa, Christian Meilicke, and Heiner Stuckenschmidt.
 
-Link to the paper: tbd.
+The paper can be found [here](https://hanvanderaa.com/wp-content/uploads/2023/04/ESWC2023-Activity-Recommendation-for-Business-Process-Modeling-with-Pre-trained-Language-Models.pdf) and will be presented at ESWC 2023 in Hersonissos, Greece.
 
 ## License
 
